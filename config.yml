@@ -1,0 +1,14 @@
+menu:
+  main:
+    - name : "Home"
+      identifier : "home"
+      weight : 100
+      url : "/index"
+    - name : "Trade"
+      weight : 200
+      identifier : "archives"
+      url : "/trade"
+    - name : "About"
+      weight : 300
+      identifier : "about"
+      url : "/about"
