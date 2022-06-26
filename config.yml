@@ -1,3 +1,5 @@
+baseURL : "http://aadi08220.gitlab.io" 
+
 menu:
   main:
     - name : "Home"
